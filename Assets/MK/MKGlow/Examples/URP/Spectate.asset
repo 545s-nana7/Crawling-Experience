@@ -61,13 +61,13 @@ MonoBehaviour:
     m_Value: 1
   showEditorLensSurfaceBehavior:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 0
   showEditorLensFlareBehavior:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 0
   showEditorGlareBehavior:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 0
   isInitialized:
     m_OverrideState: 1
     m_Value: 1
